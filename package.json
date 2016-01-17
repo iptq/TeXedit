@@ -1,0 +1,13 @@
+{
+  "name": "TeXedit",
+  "description": "TeX editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Michael Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.4"
+  }
+}
